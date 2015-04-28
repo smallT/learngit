@@ -1,2 +1,2 @@
-git is a version constrol system
+git is a distributed version constrol system
 gi is a free software

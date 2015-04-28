@@ -1,2 +1,2 @@
 git is a distributed version constrol system
-gi is a free software
+git is a free softwarei disributed under the GPL

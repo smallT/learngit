@@ -5,6 +5,10 @@ git tracks changes of files
 //test
 int main()
 {
-	int i;
+	int i,j;
+	for ( i =0;i++;i <10)
+	{
+		printf("\n");	
+	}
 	return 0;
 }
